@@ -49,10 +49,10 @@
 
 <script>
   export default {
-    name: 'WebschoolComponent',
+    name: 'sumbusComponents',
     data () {
       return {
-        title: 'Ecommerce Webschool'
+        title: 'Sumbus in VueJs'
       }
     },
     methods: {
