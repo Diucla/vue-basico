@@ -48,11 +48,13 @@
 </template>
 
 <script>
+  /* eslint-disable key-spacing */
+
   export default {
     name: 'sumbusComponents',
     data () {
       return {
-        title: 'Sumbus in VueJs'
+        title : 'Sumbus in VueJs'
       }
     },
     methods: {
